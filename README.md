@@ -19,9 +19,6 @@
 <a href="https://github.com/aennouin?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aennouin&theme=dark&count_private=true"/>
 </a>
-<a href="https://github.com/aennouin?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aennouin&line_height=40&show_icons=true&theme=dark&count_private=true">
-</a>
 <br />
 <br />
 

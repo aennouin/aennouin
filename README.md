@@ -12,7 +12,7 @@
 <br />
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/aennouin)](https://github.com/JaeSeoKim/badge42)
+[![aennouin's 42 stats](https://badge42.vercel.app/api/v2/cl1lp3im7011809l5ed434igg/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
 
 My 'Trophy case':
 
